@@ -12,7 +12,7 @@ public class WalmartApiService {
 
 	public ItemListModel callWalmartApi() {
 
-		String url = "http://api.walmartlabs.com/v1/items?ids=12417832,19336123&apiKey=4unj7qydbbgngyzdn4nw3wdr";
+		String url = "http://api.walmartlabs.com/v1/items?ids=12417832,19336123&apiKey=****************";
 
 		try {
 			URL obj = new URL(url);
