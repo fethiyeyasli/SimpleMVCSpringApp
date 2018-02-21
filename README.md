@@ -13,6 +13,8 @@ welcome.jsp if for about us.
 
 
 Running Steps
-Add project to tomcat server. 
-Run tomcat server.
-URL looks like with related port : http://localhost:8080/BookShopping/index.html
+-You need to add valid apiKey to URL in WalmartApiService.java  (/BookShopping/src/com/bookshopping/service/WalmartApiService.java)
+(String url = "http://api.walmartlabs.com/v1/items?ids=12417832,19336123&apiKey=*********";)
+-Add project to tomcat server. 
+-Run tomcat server.
+-URL looks like with related port : http://localhost:8080/BookShopping/index.html
