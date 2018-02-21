@@ -1,6 +1,7 @@
 # SimpleMVCSpringApp
 
-Platforms, <br />Apache Tomcat 8, <br />Spring MVC, <br />Java 8
+# Platforms <br />
+Apache Tomcat 8, <br />Spring MVC, <br />Java 8
 
 
 Simple application listing  products on sale.<br />
